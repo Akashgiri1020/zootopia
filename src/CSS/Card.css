@@ -1,0 +1,27 @@
+.card-container{
+
+    width:300px;
+    display:flex;
+  flex-wrap:wrap;
+  box-shadow:5px 5px rgb(128,128,128);
+  border-style:groove;
+  padding:10px
+  
+  }
+  .self{
+    border-style:groove;
+    margin-top:10px;
+    padding:5px;
+  }
+  li{
+    list-style:none;
+  }
+  .info{
+    font-style:italic;
+  }
+  span{
+    font-weight:bold;
+  }
+  li,ul{
+    padding-left:0px;
+  }
